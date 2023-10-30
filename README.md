@@ -1,2 +1,1 @@
-FROM almalinux
-
+this is my first docker file
